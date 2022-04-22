@@ -11,6 +11,7 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 
 ## Problem Statement
 
+Design a 3-tier Application
 1. One virtual network tied in three subnets.
 2. Each subnet will have one virtual machine.
 3. First virtual machine -> allow inbound traffic from internet only.
